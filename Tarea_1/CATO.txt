@@ -2,4 +2,4 @@
 ---CHOQUE
 
 ---LUIS 
----SEMINARIO
+---SEMINARIO.
